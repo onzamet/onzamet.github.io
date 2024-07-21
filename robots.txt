@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://onzamet.github.io/sitemap
+Sitemap: https://onzamet.github.io/app/sitemap
+Sitemap: https://onzamet.github.io/assets/sitemap
+Sitemap: https://onzamet.github.io/css/sitemap
+Sitemap: https://onzamet.github.io/includes/sitemap
+Sitemap: https://onzamet.github.io/item/sitemap
+Sitemap: https://onzamet.github.io/src/sitemap
